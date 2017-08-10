@@ -1,0 +1,24 @@
+{
+  "name": "powerbi-Visuals-ThreeStateKpiIndicator",
+  "author": {
+    "name": "Microsoft",
+    "email": "pbicvsupport@microsoft.com"
+  },
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goutamgm92/threeStateKPI.git"
+  },
+  "scripts": {
+    "start": "pbiviz start",
+    "package": "pbiviz package"
+  },
+  "dependencies": {
+    "powerbi-visuals-utils-dataviewutils": "1.2.0",
+    "powerbi-visuals-utils-formattingutils": "^3.0.0"
+  },
+  "devDependencies": {
+    "powerbi-visuals-tools": "^1.7.1"
+  }
+}
